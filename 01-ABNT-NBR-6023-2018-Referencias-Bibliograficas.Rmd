@@ -1,0 +1,8 @@
+# Norma ABNT NBR 6023/2018 - Referências Bibliográficas
+
+* **Título**: Informação e documentação — Referências — Elaboração
+* **Descrição:** Norma da ABNT para elaboração de referências bibliográficas
+
+## Introdução
+
+Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.
