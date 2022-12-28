@@ -2,7 +2,50 @@
 
 * **Título**: Informação e documentação — Referências — Elaboração
 * **Descrição:** Norma da ABNT para elaboração de referências bibliográficas
+* **Edição:** 2.ed. (14.11.2018)
 
 ## Introdução
 
-Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.
+* A Associação Brasileira de Normas Técnicas é uma organização nacional brasileira de normatização.
+* O **conteúdo** das **normas brasileiras** é de responsabilidade de **partes interessadas** no tema objeto da normatização que fazem parte da composição de:
+  * Comitês Brasileiros (ABNT/CB);
+  * Organismos de Normatização Setorial (ABNT/ONS);
+  * Comissões de Estudo Especial (ABNT/CEE);
+  * Comissões de Estudo (ABNT/CE)
+* A norma ABNT NBR 6023/2018 (Referências Bibliográficas) foi elaborada
+  * No **Comitê Brasileiro de Informação e Documentação** (ABNT/CB-014)
+  * Pela **Comissão de Estudo de Identificação e Descrição** (ABNT/CE-014:000.003)
+* Houve **Projetos de Revisões** da norma ABNT NBR 6023/2018 (Referências Bibliográficas)
+  * 1º Projeto de Revisão 
+    * Consulta Nacional conforme Edital nº 08, de 03.08.2015 a 30.10.2015
+  * 2º Projeto de Revisão
+    * Consulta Nacional conforme Edital nº 06, de 15.06.2018 a 16.07.2018.
+    * **ATENÇÃO:**A segunda edição **CANCELA** e **SUBSTITUI** a edição anterior (ABNT NBR 6023/2002)
+
+## Qual o ESCOPO da ABNT NBR 6023/2018 ?
+
+Quando falemos em escopo da norma, falamos no que podemos esperar estar contido na norma ABNT NBR 6023/2018.
+
+**É ESCOPO** desta norma:
+
+1. Estabelecer **os elementos a serem incluídos** em referências biliográficas;
+2. Fixar **a ordem dos elementos** incluídos nas referências bilbiográficas;
+3. Estabelecer **convenções para <u>transcrição</u>** e **apresentação** da informação originadas
+  * Do documento; e/ou
+  * De outras fontes de informação
+4. Orientar a **preparação** e **compilação** de REFERÊNCIAS DE MATERIAL utilizadas para
+  * Produção de documentos; e
+  * Inclusão em:
+    * Bibliografias;
+    * Resumos;
+    * Resenhas;
+    * Recensões;
+    * Dentre outros;
+
+**NÃO É ESCOPO** desta norma:
+
+ * Descrições usadas em bibliotecas.
+ 
+ ## Referências a Outras Normas
+ 
+ A norma ABNT NBR 6023/2018 faz referência a outras normas. Seja ao utilizar um conceito, um termo ou algum outro elemento, é necessário a consulta a essas outras normas para a adequada compreensão do que é referenciado.
